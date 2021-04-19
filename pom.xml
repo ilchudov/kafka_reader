@@ -10,7 +10,7 @@
 
     <properties>
         <kafka.version>2.5.0</kafka.version>
-        <vaadin.version>16.0.0</vaadin.version>
+        <vaadin.version>19.0.5</vaadin.version>
     </properties>
 
     <dependencies>
